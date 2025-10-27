@@ -1,0 +1,11 @@
+--- SSF RAW Çıktısı ---
+Kullanıcı: Administrator
+Tarih: 2025-10-27
+İşletim Sistemi: Windows 10
+ROS2 Sürümü: Humble
+Gazebo Sürümü: Harmonic
+
+--- SHA256 Hash ---
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+
